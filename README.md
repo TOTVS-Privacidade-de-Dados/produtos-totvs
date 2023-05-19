@@ -22,7 +22,7 @@ Como a TOTVS é uma empresa brasileira, o Protheus foi desenvolvido considerando
 
 Em resumo, o Protheus é um sistema ERP abrangente e flexível que auxilia as empresas na gestão eficiente de seus processos internos, permitindo um maior controle e integração de suas operações.
 
-## Tecnologia
+### Tecnologia
 
 **Banco de dados:** O Protheus pode ser integrado a diferentes sistemas de gerenciamento de banco de dados, como Oracle, Microsoft SQL Server e PostgreSQL. O banco de dados é responsável pelo armazenamento e recuperação das informações utilizadas pelo sistema.
 
